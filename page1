@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang="fr"> 
+
+<head><PRESENTATION>
+
+<meta charset="utf-8" /> 
+
+<title>Présentation DCG</title>
+ <body>
+<center>
+        <div id="bloc_page">
+            <header>
+                <div id="titre_principal">
+                    <img src="wallon.jpeg" alt="Logo de Zozor" id="logo" />
+                    <h1>Prépa DCG Projet S.I.G.</h1>
+   <title>Menu burger </title>
+    <link rel="stylesheet" href="menu.css">
+</head>
+<body>
+    <nav>
+<label>☰</label>
+        <div class="main_pages">
+ <label for="toggle">☰</label>
+    <input type="checkbox" id="toggle">
+    <a href="./Page1.html">Accueil</a> 
+    <a href="./Page2.html">Parcours Professionnel</a>
+    <a href="./Page3.html">Loisir</a>
+    <a href="./Page4.html">Contact</a>
+    </div>
+</nav>
+</body>
+</html>
+<head>
+</head>
+<body>
+</body>
+<ul id="menu_horizontal">
+</head>
+<center>
+<font face="Trebuchet MS">
+<img title="Hello" src="Hello.gif" alt="/Users/lilasaid/Desktop/HTML"/> <br/>
+<body>
+<h1> <p style="color:green;">Je m'appelle Lila Saïd.<br/> Je suis en classe de DCG1 au lycée Henri Wallon à Valenciennes</p>
+</body>
+<h4> <p style="color:darkblue;">Lila Saïd
+<h4> <p style="color:darkblue;">DCG1 
+<h4> <p style="color:darkblue;">Lycée Henri Wallon Valenciennes <br/>
+<br/>
+<img title="Wallon" src="Wallon.png" alt="/Users/lilasaid/Desktop/HTML"/> <br/>
+<br/>
+<br/>
+<br/>
+</body>
+<body background=fond.webp
+<br/>
+<br/>
+<center> <image src= "Profil.png" alt="Parcours Professionel" "height= "100" width="100" <br/>
+<br/>
+<br/>
+<p style="color:darkred;">Matière Examen 2023 <br/>
+<br/>
+<p style="color:darkblue;">Fondamentaux du Droit 
+<p style="color:darkblue;">Système d'Information et de Gestion 
+<p style="color:darkblue;">Comptabilité 
+<p style="color:darkblue;">Anglais des Affaires 
+ <p style="color:darkblue;">Espagnol LV2 
+<p style="color:darkblue;"> Économie (examen en deuxième année)
+<p style="color:darkblue;">Communication professionnel (pendant 3 ans)  
+<br/>
+<br/>
+<table border=2 cellspacing=1> 
+<tr>  
+<td> <p style="color:green;">Matière</td><td> <p style="color:green;">Note</td><td> <p style="color:green;">Année</td><td/>
+</tr> 
+<td> <p style="color:lightgrey;">Comptabilité</td><td> <p style="color:lightgrey;">Note non révéler</td><td> <p style="color:lightgrey;">2023</td> </tr> 
+<tr>  
+<td> <p style="color:lightgrey;">Fondamentaux Droit</td><td>  <p style="color:lightgrey;">Note non révéler</td><td> <p style="color:lightgrey;">2023</td> 
+</tr> 
+<td><p style="color:lightgrey;">Système d'information Gestion</td><td> <p style="color:lightgrey;">Note non révéler</td><td> <p style="color:lightgrey;">2023</td> 
+</tr>
+<td><p style="color:lightgrey;">Anglais des Affaires</td><td> <p style="color:lightgrey;">Note non révéler</td><td> <p style="color:lightgrey;">2023</td> 
+</tr>
+<td><p style="color:lightgrey;">Espagnol</td><td> <p style="color:lightgrey;">Note non révéler</td><td> <p style="color:lightgrey;">2023</td> 
+</table>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p style="color:darkred;">Matière en Deuxième Année 
+<p style="color:darkblue;">Droit fiscal 
+<p style="color:darkblue;">Comptabilité approfondie
+<p style="color:darkblue;">Finances 
+ <p style="color:darkblue;">Économie 
+<p style="color:darkblue;">Communication Professionnel 
+<p style="color:darkblue;">Droit des sociétés <br/>
+<br/>
+<table border=2 cellspacing=1> 
+<tr>  
+<td> <p style="color:green;">Matière</td><td> <p style="color:green;">Note</td><td> <p style="color:green;">Année</td><td/>
+</tr> 
+<td> <p style="color:grey;">Comptabilité Appronfondie</td><td> <p style="color:grey;">Note non révéler</td><td> <p style="color:grey;">2024</td> </tr> 
+<tr>  
+<td> <p style="color:grey;">Droit fiscal</td><td>  <p style="color:grey;">Note non révéler</td><td> <p style="color:grey;">2024</td> 
+</tr> 
+<td><p style="color:grey;">Droit des sociétés</td><td> <p style="color:grey;">Note non révéler</td><td> <p style="color:grey;">2024</td> 
+</tr>
+<td><p style="color:grey;">Finance</td><td> <p style="color:grey;">Note non révéler</td><td> <p style="color:grey;">2024</td> 
+</tr>
+<td><p style="color:grey;">Économie</td><td> <p style="color:grey;">Note non révéler</td><td> <p style="color:grey;">2024</td> 
+</table>
+<br/>
+<p style="color:darkred;">Matière en Troisième Année
+<p style="color:darkblue;">Contrôle de Gestion 
+ <p style="color:darkblue;">Management 
+<p style="color:darkblue;">Droit social 
+ <p style="color:darkblue;">Communication professionnel
+<br/>
+<table border=2 cellspacing=1> 
+<tr>  
+<td> <p style="color:green;">Matière</td><td> <p style="color:green;">Note</td><td> <p style="color:green;">Année</td><td/>
+</tr> 
+<td> <p style="color:dark;">Management</td><td> <p style="color:dark;">Note non révéler</td><td> <p style="color:dark;">2025</td> </tr> 
+<tr>  
+<td> <p style="color:dark;">Droit Social</td><td>  <p style="color:dark;">Note non révéler</td><td> <p style="color:dark;">2025</td> 
+</tr> 
+<td><p style="color:dark;">Contrôle de Gestion</td><td> <p style="color:dark;">Note non révéler</td><td> <p style="color:dark;">2025</td> 
+</tr>
+<td><p style="color:dark;">Communication Professionnel</td><td> <p style="color:dark;">Note non révéler</td><td> <p style="color:dark;">2025</td> 
+</tr>
+</table>
+<br/>
+<br/>
+</body>
+<font/>
+</html>
+</html>
